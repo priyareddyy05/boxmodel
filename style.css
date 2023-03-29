@@ -121,7 +121,8 @@
     border:2px solid black;
     width:400px;
     text-align: center;
-    border-radius: 3px;
+    border-top-left-radius:2px ;
+    border-radius: 9px;
     padding-bottom: 50px;
     margin-top: 5%;
     margin-left: 5%;
