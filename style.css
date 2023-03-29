@@ -1,0 +1,137 @@
+.box{
+    border:2px solid black;
+    width:400px;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    margin-top: 5%;
+    margin-left: 5%;
+    
+}
+.learn{
+    color: rgba(0, 0, 255, 0.381);
+    
+}
+.learn:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.box1{
+    border:2px solid black;
+    width:400px;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    margin-top: 5%;
+    margin-left: 5% ;
+}
+.learn1{
+    color: rgba(0, 0, 255, 0.381);
+    
+}
+.learn1:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.box2{
+    border:2px solid black;
+    width:400px;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.learn2{
+    color: rgba(0, 0, 255, 0.381);
+    
+}
+.learn2:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.box3{
+    border:2px solid black;
+    width:400px;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    margin-top: 5%;
+    margin-left: 5%;
+    
+}.learn3{
+    color: rgba(0, 0, 255, 0.381);
+    
+}
+.learn3:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.top{
+    background-color:orange;
+    color: white;
+    width:200px;
+    height:45px;
+    padding-top: 15px;
+    padding-right: 10px;
+    font-weight: lighter;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius:10px;
+    margin-top: -1px;
+    margin-left:1px ;
+}
+.box4{
+    border:2px solid black;
+    width:400px;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    margin-top: 5%;
+    margin-left: 5%;
+    
+}
+.learn4{
+    color: rgba(0, 0, 255, 0.381);
+    
+}
+.learn4:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.box5{
+    border:2px solid black;
+    width:400px;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    margin-top: 5%;
+    margin-left: 5%;
+    
+}
+.learn5{
+    color: rgba(0, 0, 255, 0.381);
+    
+}
+.learn5:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.box6{
+    border:2px solid black;
+    width:400px;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    margin-top: 5%;
+    margin-left: 5%;
+    
+}
+.learn6{
+    color: rgba(0, 0, 255, 0.381);
+    
+}
+.learn6:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
